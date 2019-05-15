@@ -1,2 +1,2 @@
 # restapi
-django restapi framework dengan auth
+django rest-framework dengan auth
